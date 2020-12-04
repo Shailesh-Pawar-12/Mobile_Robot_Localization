@@ -1,13 +1,8 @@
-# Where Am I
+# Mobile_Robot_Localization
 
 
-this project includes 3 folders
+* This project includes a ROS package that launches a custom robot model in a custom Gazebo world
 
-this project mainly deal with localization of the robot
+* It utilize the ROS AMCL package and the Tele-Operation / Navigation Stack to localize the robot
 
-for localization it is exploring multiplte algorithms like kalman filter and monte carlo method
-
-screenshots
-my_world
-and 
-
+* It also includes screenshots of best possible localization results.
